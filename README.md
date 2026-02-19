@@ -3,8 +3,8 @@
 Physical Tracker is a native Android application developed for the "Mobile Applications Laboratory" course (A.Y. 2023/2024) at the University of Bologna. The project focuses on monitoring the user's daily activities by utilizing the integrated sensors of the mobile device.
 
 ## Authors
-- **Alessandro Ravveduto** (alessandro.ravveduto@studio.unibo.it).
-- **Alessandro Tomaiuolo** (alessandro.tomaiuol2@studio.unibo.it).
+- **Alessandro Ravveduto** (https://github.com/sc-ale).
+- **Alessandro Tomaiuolo** (https://github.com/Bobyyyyyy).
 
 ## Core Features
 - **Activity Monitoring**: The app records specific activities including Walking, Running, Resting, and Driving.
